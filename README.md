@@ -5,6 +5,6 @@ The explaination of this repository can be found here on Medium blog
 
 https://rakesh-suryawanshi.medium.com/unit-testing-report-with-github-actions-7216f340044e
 
-Also I have youtube video to configure the same.
+Also I have youtube video to configure the same
 
 
